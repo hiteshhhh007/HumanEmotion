@@ -3,3 +3,5 @@ This project consists of Human Emotion Classifier Model, wherein the models have
 # Dataset
 The dataset used in this project has been taken from Kaggle. I have uploaded the link below.
 https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes
+# About the Notebook
+This Notebook has been created in Kaggle, as it provides most of the python libraries. In order to use the notebook for your personal use, make sure to change the various paths which links to dataset according to your local system.
